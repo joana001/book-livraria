@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    font-family:'tahoma ms';
+    color:#666;/*comentario*/
+}
+
+# total {
+    width:100px;
+    margin:0 auto;
+    
+}
+#logo{text-aligin: center;}
+#menu{
+    text-align: center;
+    backgroud-color:#222;
+}
+
+#menu a{
+    color: #fff;
+    text-decoration:none;
+    
+line-height: : 40px
+    
+}
+    
+
+        
+
